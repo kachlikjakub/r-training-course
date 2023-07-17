@@ -19,12 +19,12 @@ jobs:
      #   run: Rscript -e "install.packages(c('your_package1', 'your_package2'), repos='https://cloud.r-project.org')"
 
       - name: Run R script
-        run: Rscript script.r
+        run: Rscript script.r > real_output.txt
 
       - name: Compare output
         run: |
           # Compare the actual output with the expected output
-          diff - expected_output.txt
+          diff -u real_output.txt expected_output.txt
 
           # Check the diff exit code to determine if the outputs match
           if [ $? -eq 0 ]; then
