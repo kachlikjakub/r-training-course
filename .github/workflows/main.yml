@@ -1,35 +1,44 @@
-name: Exercise Check
-on:
-  push:
-    branches:
-      - main  # Replace with your branch name
+# name: Exercise Check
+# on:
+#   push:
+#     # branches:
+#     #   - name
 
-jobs:
-  check-output:
-    runs-on: ubuntu-latest
+# jobs:
+#   check-output:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v2
 
-      - name: Set up R environment
-        uses: r-lib/actions/setup-r@v2
-        
-     # - name: Install R packages
-     #   run: Rscript -e "install.packages(c('your_package1', 'your_package2'), repos='https://cloud.r-project.org')"
+#       - name: Check if script exists
+#         run: |
+#           if test -e script.r; then
+#             echo “File exists”
+#           else
+#             echo “File does not exist”
+#             exit 1
+#           fi
 
-      - name: Run R script
-        run: Rscript script.r > real_output.txt
+#       - name: Set up R environment
+#         uses: r-lib/actions/setup-r@v2
 
-      - name: Compare output
-        run: |
-          # Compare the actual output with the expected output
-          diff -u real_output.txt expected_output.txt
+#       # - name: Install R packages
+#       #   run: Rscript -e "install.packages(c('your_package1', 'your_package2'), repos='https://cloud.r-project.org')"
 
-          # Check the diff exit code to determine if the outputs match
-          if [ $? -eq 0 ]; then
-            echo "Output matches the expected output."
-          else
-            echo "Output does not match the expected output."
-            exit 1
-          fi
+#       - name: Run R script
+#         run: Rscript script.r
+
+#       - name: Compare output
+#         run: |
+#           # Compare the actual output with the expected output
+#           diff - expected_output.txt
+
+#           # Check the diff exit code to determine if the outputs match
+#           if [ $? -eq 0 ]; then
+#             echo "Output matches the expected output."
+#           else
+#             echo "Output does not match the expected output."
+#             exit 1
+#           fi
