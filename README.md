@@ -73,8 +73,8 @@ Imagine you are a data analyst working for a coffee shop chain, and you need to 
 3. Define a logical variable 'is_promotion' indicating whether there is an ongoing promotion for the best-selling coffee blend. Command: Set 'is_promotion' to TRUE.
 4. Calculate the total revenue if 100 cups of the best-selling coffee are sold at the given 'coffee_price'.
 5. Print the total revenue.
-6. Use logical operators to check if the coffee shop can afford to run a promotion (the promotion cost should be less than half of the total revenue).
-7. Print the result of the logical operation from step 6.
+6. Use logical operators to check if the coffee shop can afford to run a promotion (the promotion costs 0.5 and it should be less than half of the coffe_price) and save it to variable 'can_run_promo'.
+7. Print the result of 'can_run_promo'.
 8. Get the name of the best-selling coffee using the 'if' statement. If 'is_promotion' is TRUE, set 'best_coffee_name' to "Special Blend"; otherwise, set it to "Regular Blend".
 9. Print the name of the best-selling coffee ('best_coffee_name').
 
