@@ -1,8 +1,8 @@
 # name: Exercise Check
 # on:
 #   push:
-#     # branches:
-#     #   - name
+#     branches:
+#       - name
 
 # jobs:
 #   check-output:
