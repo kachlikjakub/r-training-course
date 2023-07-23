@@ -1,0 +1,101 @@
+ProductID,ProductName,Price,Promotion
+1,Americano,2.50,TRUE
+2,Latte,3.00,FALSE
+3,Cappuccino,2.75,FALSE
+4,Espresso,2.25,TRUE
+5,Mocha,3.25,FALSE
+6,Macchiato,2.80,TRUE
+7,Flat White,3.10,FALSE
+8,Affogato,3.50,FALSE
+9,Decaf,2.90,FALSE
+10,Iced Coffee,3.20,TRUE
+11,Double Espresso,3.00,TRUE
+12,Cold Brew,3.40,FALSE
+13,Frappuccino,3.50,FALSE
+14,African Coffee,3.20,FALSE
+15,Irish Coffee,4.00,TRUE
+16,Vienna Coffee,3.60,FALSE
+17,Turkish Coffee,3.10,FALSE
+18,Bulletproof Coffee,3.80,TRUE
+19,Almond Latte,3.20,FALSE
+20,Caramel Macchiato,3.50,FALSE
+21,Pumpkin Spice Latte,3.60,FALSE
+22,Hazelnut Coffee,3.40,FALSE
+23,Vanilla Latte,3.20,FALSE
+24,Coconut Mocha,3.70,TRUE
+25,Butter Pecan Latte,3.60,FALSE
+26,Raspberry Mocha,3.40,FALSE
+27,White Chocolate Mocha,3.80,FALSE
+28,Honey Lavender Latte,3.60,FALSE
+29,Mint Chocolate Coffee,3.70,TRUE
+30,Caramel Cinnamon Latte,3.90,TRUE
+31,Gingerbread Coffee,3.40,FALSE
+32,Toasted Marshmallow Latte,3.80,FALSE
+33,Banana Nut Coffee,3.50,FALSE
+34,Salted Caramel Mocha,4.10,FALSE
+35,Toffee Nut Latte,3.70,FALSE
+36,Chai Latte,3.40,FALSE
+37,Peppermint Mocha,3.90,TRUE
+38,Iced Caramel Macchiato,3.80,FALSE
+39,Salted Caramel Latte,3.70,FALSE
+40,Maple Pecan Coffee,4.00,FALSE
+41,Peanut Butter Mocha,3.90,FALSE
+42,Pumpkin Spice Cold Brew,3.60,FALSE
+43,Mocha Coconut Coffee,3.80,FALSE
+44,Gingerbread Latte,3.70,TRUE
+45,Birthday Cake Latte,4.20,TRUE
+46,Chocolate Chip Frappuccino,3.80,FALSE
+47,Snickerdoodle Latte,3.90,FALSE
+48,Butterscotch Coffee,3.60,FALSE
+49,Matcha Latte,3.70,FALSE
+50,Coconut Cream Coffee,3.50,FALSE
+51,Caramel Swirl Latte,3.80,TRUE
+52,Honey Toffee Mocha,4.00,FALSE
+53,White Chocolate Raspberry Latte,3.90,FALSE
+54,Chocolate Covered Cherry Coffee,3.70,FALSE
+55,Butter Pecan Iced Coffee,4.10,TRUE
+56,Mocha Mint Latte,3.90,FALSE
+57,Hazelnut Swirl Coffee,3.80,FALSE
+58,Caramel Toffee Latte,3.70,FALSE
+59,Almond Joy Latte,3.50,FALSE
+60,Cinnamon Roll Coffee,4.00,FALSE
+61,Mudslide Coffee,3.90,TRUE
+62,Peppermint Bark Mocha,4.20,TRUE
+63,Maple Cinnamon Latte,3.80,FALSE
+64,Iced Almond Latte,3.90,FALSE
+65,Cherry Cordial Coffee,3.60,FALSE
+66,Rum Raisin Latte,3.70,FALSE
+67,Coconut Caramel Coffee,3.50,FALSE
+68,Chai Frappuccino,3.80,TRUE
+69,Butterscotch Toffee Latte,4.00,FALSE
+70,Mint Chocolate Chip Coffee,3.90,FALSE
+71,Toasted Coconut Latte,3.70,FALSE
+72,Banana Split Mocha,4.10,FALSE
+73,Orange Mocha,3.90,TRUE
+74,Caramel Apple Latte,4.20,TRUE
+75,Chocolate Peanut Butter Frappuccino,3.80,FALSE
+76,Lemon Poppy Seed Coffee,3.90,FALSE
+77,Salted Caramel Iced Latte,3.80,FALSE
+78,Coconut Cream Pie Coffee,3.70,FALSE
+79,Brown Sugar Cinnamon Latte,3.50,FALSE
+80,Caramel Praline Mocha,4.00,FALSE
+81,Blueberry Muffin Coffee,3.90,TRUE
+82,Peach Cobbler Latte,4.20,TRUE
+83,White Chocolate Macadamia Nut Coffee,3.80,FALSE
+84,Iced Raspberry Latte,3.90,FALSE
+85,Caramel Corn Coffee,3.60,FALSE
+86,Creamsicle Latte,3.70,FALSE
+87,Almond Joy Iced Coffee,3.50,FALSE
+88,Pumpkin Cream Cold Brew,4.00,FALSE
+89,Butterscotch Swirl Latte,3.90,TRUE
+90,Coconut Caramel Frappuccino,4.20,FALSE
+91,Strawberry Shortcake Coffee,3.80,FALSE
+92,Toasted Marshmallow Mocha,3.90,FALSE
+93,Graham Cracker Latte,3.70,FALSE
+94,Caramel Macadamia Nut Coffee,3.80,FALSE
+95,Black Forest Mocha,3.60,FALSE
+96,Toasted Almond Latte,3.70,FALSE
+97,Mint Chocolate Chip Frappuccino,3.50,FALSE
+98,Mudslide Latte,4.00,TRUE
+99,Raspberry Truffle Coffee,4.20,TRUE
+100,Cinnamon Bun Latte,3.80,FALSE

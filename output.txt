@@ -1,0 +1,100 @@
+Product: Americano - Price from dataset: 2.5 - Discounted Price: 2.5 
+Product: Latte - Price from dataset: 3 - Discounted Price: 2.4 
+Product: Cappuccino - Price from dataset: 2.75 - Discounted Price: 2.2 
+Product: Espresso - Price from dataset: 2.25 - Discounted Price: 2.25 
+Product: Mocha - Price from dataset: 3.25 - Discounted Price: 2.6 
+Product: Macchiato - Price from dataset: 2.8 - Discounted Price: 2.8 
+Product: Flat White - Price from dataset: 3.1 - Discounted Price: 2.48 
+Product: Affogato - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Decaf - Price from dataset: 2.9 - Discounted Price: 2.32 
+Product: Iced Coffee - Price from dataset: 3.2 - Discounted Price: 3.2 
+Product: Double Espresso - Price from dataset: 3 - Discounted Price: 3 
+Product: Cold Brew - Price from dataset: 3.4 - Discounted Price: 2.72 
+Product: Frappuccino - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: African Coffee - Price from dataset: 3.2 - Discounted Price: 2.56 
+Product: Irish Coffee - Price from dataset: 4 - Discounted Price: 4 
+Product: Vienna Coffee - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Turkish Coffee - Price from dataset: 3.1 - Discounted Price: 2.48 
+Product: Bulletproof Coffee - Price from dataset: 3.8 - Discounted Price: 3.8 
+Product: Almond Latte - Price from dataset: 3.2 - Discounted Price: 2.56 
+Product: Caramel Macchiato - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Pumpkin Spice Latte - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Hazelnut Coffee - Price from dataset: 3.4 - Discounted Price: 2.72 
+Product: Vanilla Latte - Price from dataset: 3.2 - Discounted Price: 2.56 
+Product: Coconut Mocha - Price from dataset: 3.7 - Discounted Price: 3.7 
+Product: Butter Pecan Latte - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Raspberry Mocha - Price from dataset: 3.4 - Discounted Price: 2.72 
+Product: White Chocolate Mocha - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Honey Lavender Latte - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Mint Chocolate Coffee - Price from dataset: 3.7 - Discounted Price: 3.7 
+Product: Caramel Cinnamon Latte - Price from dataset: 3.9 - Discounted Price: 3.9 
+Product: Gingerbread Coffee - Price from dataset: 3.4 - Discounted Price: 2.72 
+Product: Toasted Marshmallow Latte - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Banana Nut Coffee - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Salted Caramel Mocha - Price from dataset: 4.1 - Discounted Price: 3.28 
+Product: Toffee Nut Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Chai Latte - Price from dataset: 3.4 - Discounted Price: 2.72 
+Product: Peppermint Mocha - Price from dataset: 3.9 - Discounted Price: 3.9 
+Product: Iced Caramel Macchiato - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Salted Caramel Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Maple Pecan Coffee - Price from dataset: 4 - Discounted Price: 3.2 
+Product: Peanut Butter Mocha - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Pumpkin Spice Cold Brew - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Mocha Coconut Coffee - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Gingerbread Latte - Price from dataset: 3.7 - Discounted Price: 3.7 
+Product: Birthday Cake Latte - Price from dataset: 4.2 - Discounted Price: 4.2 
+Product: Chocolate Chip Frappuccino - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Snickerdoodle Latte - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Butterscotch Coffee - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Matcha Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Coconut Cream Coffee - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Caramel Swirl Latte - Price from dataset: 3.8 - Discounted Price: 3.8 
+Product: Honey Toffee Mocha - Price from dataset: 4 - Discounted Price: 3.2 
+Product: White Chocolate Raspberry Latte - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Chocolate Covered Cherry Coffee - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Butter Pecan Iced Coffee - Price from dataset: 4.1 - Discounted Price: 4.1 
+Product: Mocha Mint Latte - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Hazelnut Swirl Coffee - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Caramel Toffee Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Almond Joy Latte - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Cinnamon Roll Coffee - Price from dataset: 4 - Discounted Price: 3.2 
+Product: Mudslide Coffee - Price from dataset: 3.9 - Discounted Price: 3.9 
+Product: Peppermint Bark Mocha - Price from dataset: 4.2 - Discounted Price: 4.2 
+Product: Maple Cinnamon Latte - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Iced Almond Latte - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Cherry Cordial Coffee - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Rum Raisin Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Coconut Caramel Coffee - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Chai Frappuccino - Price from dataset: 3.8 - Discounted Price: 3.8 
+Product: Butterscotch Toffee Latte - Price from dataset: 4 - Discounted Price: 3.2 
+Product: Mint Chocolate Chip Coffee - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Toasted Coconut Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Banana Split Mocha - Price from dataset: 4.1 - Discounted Price: 3.28 
+Product: Orange Mocha - Price from dataset: 3.9 - Discounted Price: 3.9 
+Product: Caramel Apple Latte - Price from dataset: 4.2 - Discounted Price: 4.2 
+Product: Chocolate Peanut Butter Frappuccino - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Lemon Poppy Seed Coffee - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Salted Caramel Iced Latte - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Coconut Cream Pie Coffee - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Brown Sugar Cinnamon Latte - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Caramel Praline Mocha - Price from dataset: 4 - Discounted Price: 3.2 
+Product: Blueberry Muffin Coffee - Price from dataset: 3.9 - Discounted Price: 3.9 
+Product: Peach Cobbler Latte - Price from dataset: 4.2 - Discounted Price: 4.2 
+Product: White Chocolate Macadamia Nut Coffee - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Iced Raspberry Latte - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Caramel Corn Coffee - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Creamsicle Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Almond Joy Iced Coffee - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Pumpkin Cream Cold Brew - Price from dataset: 4 - Discounted Price: 3.2 
+Product: Butterscotch Swirl Latte - Price from dataset: 3.9 - Discounted Price: 3.9 
+Product: Coconut Caramel Frappuccino - Price from dataset: 4.2 - Discounted Price: 3.36 
+Product: Strawberry Shortcake Coffee - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Toasted Marshmallow Mocha - Price from dataset: 3.9 - Discounted Price: 3.12 
+Product: Graham Cracker Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Caramel Macadamia Nut Coffee - Price from dataset: 3.8 - Discounted Price: 3.04 
+Product: Black Forest Mocha - Price from dataset: 3.6 - Discounted Price: 2.88 
+Product: Toasted Almond Latte - Price from dataset: 3.7 - Discounted Price: 2.96 
+Product: Mint Chocolate Chip Frappuccino - Price from dataset: 3.5 - Discounted Price: 2.8 
+Product: Mudslide Latte - Price from dataset: 4 - Discounted Price: 4 
+Product: Raspberry Truffle Coffee - Price from dataset: 4.2 - Discounted Price: 4.2 
+Product: Cinnamon Bun Latte - Price from dataset: 3.8 - Discounted Price: 3.04 
