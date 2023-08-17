@@ -20,11 +20,12 @@ Every time when you will feel like committing your work, do not forget to name y
 - Data Aggregation and Transformation
 - Filtering and Subsetting Data
 
-### Lesson 3: Data Visualization with ggplot2
-
-- Introduction to Data Visualization
-- Creating Scatter Plots, Bar Charts, and Line Graphs
-- Customizing Plot Aesthetics and Themes
+### Lesson 3: Data Structures in R
+- Types of data structures in R
+1. Vectors
+2. Matrices
+3. Data Frames
+4. Lists
 
 ### Lesson 4: Functions and Control Structures
 
@@ -32,47 +33,6 @@ Every time when you will feel like committing your work, do not forget to name y
 - Creating Custom Functions
 - Using Conditional Statements (if-else) and Loops (for, while)
 
-### Lesson 5: Introduction to Statistical Analysis
-
-- Descriptive Statistics and Summary Metrics
-- Probability Distributions and Sampling
-- Hypothesis Testing and p-values
-
-### Lesson 6: Exploratory Data Analysis (EDA)
-
-- Understanding the Importance of EDA
-- Data Visualization for EDA
-- Identifying Patterns and Relationships in Data
-
-### Lesson 7: Data Wrangling and Reshaping
-
-- Introduction to Tidy Data Principles
-- Data Reshaping with tidyr
-- Data Merging and Joining
-
-### Lesson 8: Statistical Modeling with R
-
-- Linear Regression
-- Logistic Regression
-- Model Evaluation and Selection
-
-### Lesson 9: Time Series Analysis
-
-- Time Series Data and Components
-- Time Series Visualization
-- Forecasting with Time Series Models
-
-### Lesson 10: Machine Learning with R
-
-- Introduction to Machine Learning
-- Supervised and Unsupervised Learning
-- Model Training, Evaluation, and Tuning
-
-### Lesson 11: Working with External Data and APIs
-
-- Importing Data from Different Sources
-- Web Scraping and API Integration
-- Exporting Data and Results
 
 If you enjoy this R-language course, leave the star on this repository.
 
